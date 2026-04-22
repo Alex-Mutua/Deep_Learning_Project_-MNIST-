@@ -10,7 +10,7 @@ The goal is to demonstrate how a neural network can learn to recognize image pat
 
 The **MNIST dataset** contains:
 
-- 70,000 grayscale images  
+- 60,000 grayscale images  
 - Image size: **28 × 28 pixels**  
 - **10 classes** representing digits **0–9**
 
